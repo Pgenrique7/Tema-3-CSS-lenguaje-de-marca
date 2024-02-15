@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+body{
+    margin: 0;
+}
+header{
+    background-color: orange;
+}
+.container{
+    margin:auto;
+}
+nav{
+    background-color: orange;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+img{
+    width: 20%;
+    height: 20%;
+}
+#about{
+    padding-bottom: 2%;
+    
+}
+footer{
+    background-color: rgb(57, 156, 221);
+    margin: auto;
+    box-sizing: border-box ;
+    color: white;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-size: 18px;
+    font-weight: bold;
+}
+li{
+    list-style: none;
+}
+h2{
+    color: dodgerblue;
+    font-size: 30px;
+}
+a{
+    text-decoration: none;
+    color:white;
+}
+main{
+    background-color: white;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}

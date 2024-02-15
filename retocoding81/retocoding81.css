@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Bergdool';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Bergdool'), url('https://fonts.cdnfonts.com/s/58319/Bergdool-w1EmZ.woff') format('woff');
+}
+p{
+    font-family: 'Open Sans', sans-serif;
+}
+h1{
+    font-family: 'Bergdool';
+}
+h2{
+    font-family: 'Bergdool';
+}
